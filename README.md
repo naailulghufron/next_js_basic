@@ -36,5 +36,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Content
 - Installation
 - Routing basic
+- Install eslint global & implement eslint setup json file
 
 # next_js_basic
+
+## Image
+
