@@ -35,5 +35,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Content
 - Installation
+- Routing basic
 
 # next_js_basic
