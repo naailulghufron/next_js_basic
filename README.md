@@ -37,6 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - Installation
 - Routing basic
 - Install eslint global & implement eslint setup json file
+- Setup Layout & Navbar
 
 # next_js_basic
 
