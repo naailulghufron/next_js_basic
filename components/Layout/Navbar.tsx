@@ -34,6 +34,13 @@ export default function Navbar() {
                         </a>
                     </Link>
                 </li>
+                <li>
+                    <Link href="/module/post">
+                        <a>
+                            Post
+                        </a>
+                    </Link>
+                </li>
             </ul>
         </div>
     )
