@@ -27,6 +27,13 @@ export default function Navbar() {
                         </a>
                     </Link>
                 </li>
+                <li>
+                    <Link href="/setup/system/users">
+                        <a>
+                            User
+                        </a>
+                    </Link>
+                </li>
             </ul>
         </div>
     )

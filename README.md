@@ -39,6 +39,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - Install eslint global & implement eslint setup json file
 - Setup Layout & Navbar
 - Redirection route after load 404 page
+- Dynamic route
+- GetStaticProps
+- Data Fetching getStaticPaths
 
 # next_js_basic
 
